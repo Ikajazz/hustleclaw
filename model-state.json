@@ -1,0 +1,124 @@
+{
+  "currentModelId": 4,
+  "currentModel": "microsoft/phi-3-mini-128k-instruct:free",
+  "models": [
+    {
+      "id": 1,
+      "name": "google/gemini-2.0-flash-exp:free",
+      "provider": "openrouter",
+      "description": "Google Gemini 2.0 Flash (Fast)",
+      "active": true,
+      "requests": 0,
+      "errors": 0,
+      "rateLimitHits": 0,
+      "lastUsed": null,
+      "lastError": null,
+      "cooldownUntil": null
+    },
+    {
+      "id": 2,
+      "name": "google/gemma-4-26b-a4b-it:free",
+      "provider": "openrouter",
+      "description": "Google Gemma 4 26B (Medium)",
+      "active": true,
+      "requests": 0,
+      "errors": 2,
+      "rateLimitHits": 2,
+      "lastUsed": null,
+      "lastError": "2026-04-14T04:15:01.346Z",
+      "cooldownUntil": "2026-04-14T04:45:01.347Z"
+    },
+    {
+      "id": 3,
+      "name": "meta-llama/llama-3.2-3b-instruct:free",
+      "provider": "openrouter",
+      "description": "Meta Llama 3.2 3B (Light)",
+      "active": true,
+      "requests": 0,
+      "errors": 0,
+      "rateLimitHits": 0,
+      "lastUsed": null,
+      "lastError": null,
+      "cooldownUntil": null
+    },
+    {
+      "id": 4,
+      "name": "microsoft/phi-3-mini-128k-instruct:free",
+      "provider": "openrouter",
+      "description": "Microsoft Phi-3 Mini (Long context)",
+      "active": true,
+      "requests": 0,
+      "errors": 0,
+      "rateLimitHits": 0,
+      "lastUsed": null,
+      "lastError": null,
+      "cooldownUntil": null
+    },
+    {
+      "id": 5,
+      "name": "qwen/qwen-2.5-7b-instruct:free",
+      "provider": "openrouter",
+      "description": "Qwen 2.5 7B (Balanced)",
+      "active": true,
+      "requests": 0,
+      "errors": 0,
+      "rateLimitHits": 0,
+      "lastUsed": null,
+      "lastError": null,
+      "cooldownUntil": null
+    }
+  ],
+  "totalRequests": 0,
+  "totalErrors": 0,
+  "lastRotation": "2026-04-14T05:15:01.668Z",
+  "rotationHistory": [
+    {
+      "timestamp": "2026-04-14T04:06:19.820Z",
+      "from": "google/gemma-4-26b-a4b-it:free",
+      "to": "google/gemma-4-26b-a4b-it:free",
+      "reason": "manual"
+    },
+    {
+      "timestamp": "2026-04-14T04:06:55.634Z",
+      "from": "meta-llama/llama-3.2-3b-instruct:free",
+      "to": "meta-llama/llama-3.2-3b-instruct:free",
+      "reason": "manual"
+    },
+    {
+      "timestamp": "2026-04-14T04:12:39.773Z",
+      "from": "microsoft/phi-3-mini-128k-instruct:free",
+      "to": "microsoft/phi-3-mini-128k-instruct:free",
+      "reason": "rate_limit"
+    },
+    {
+      "timestamp": "2026-04-14T04:15:01.352Z",
+      "from": "qwen/qwen-2.5-7b-instruct:free",
+      "to": "qwen/qwen-2.5-7b-instruct:free",
+      "reason": "rate_limit"
+    },
+    {
+      "timestamp": "2026-04-14T04:20:01.629Z",
+      "from": "google/gemini-2.0-flash-exp:free",
+      "to": "google/gemini-2.0-flash-exp:free",
+      "reason": "manual"
+    },
+    {
+      "timestamp": "2026-04-14T05:05:01.794Z",
+      "from": "google/gemma-4-26b-a4b-it:free",
+      "to": "google/gemma-4-26b-a4b-it:free",
+      "reason": "manual"
+    },
+    {
+      "timestamp": "2026-04-14T05:10:01.500Z",
+      "from": "meta-llama/llama-3.2-3b-instruct:free",
+      "to": "meta-llama/llama-3.2-3b-instruct:free",
+      "reason": "manual"
+    },
+    {
+      "timestamp": "2026-04-14T05:15:01.669Z",
+      "from": "microsoft/phi-3-mini-128k-instruct:free",
+      "to": "microsoft/phi-3-mini-128k-instruct:free",
+      "reason": "manual"
+    }
+  ]
+}
