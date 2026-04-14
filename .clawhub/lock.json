@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "skills": {
+    "evm-wallet": {
+      "version": "1.0.3",
+      "installedAt": 1776094290766
+    },
+    "openclaw-token-save": {
+      "version": "1.0.0",
+      "installedAt": 1776094540554
+    },
+    "context-budgeting": {
+      "version": "1.0.0",
+      "installedAt": 1776094549287
+    },
+    "memory-tiering": {
+      "version": "1.0.0",
+      "installedAt": 1776094555883
+    },
+    "elite-longterm-memory": {
+      "version": "1.2.3",
+      "installedAt": 1776094621632
+    },
+    "social-media-scheduler": {
+      "version": "1.0.0",
+      "installedAt": 1776094817539
+    },
+    "x-post-automation": {
+      "version": "1.0.0",
+      "installedAt": 1776094831413
+    },
+    "linkedin-automation": {
+      "version": "1.0.0",
+      "installedAt": 1776094838915
+    },
+    "seo": {
+      "version": "1.0.3",
+      "installedAt": 1776094845627
+    },
+    "blog-master": {
+      "version": "1.0.1",
+      "installedAt": 1776094858241
+    },
+    "automated-content-machine": {
+      "version": "1.0.0",
+      "installedAt": 1776094871488
+    },
+    "security-audit-toolkit": {
+      "version": "1.0.0",
+      "installedAt": 1776095101556
+    },
+    "ssh-essentials": {
+      "version": "1.0.0",
+      "installedAt": 1776095113329
+    },
+    "firewall": {
+      "version": "1.0.0",
+      "installedAt": 1776095120738
+    },
+    "host-hardening": {
+      "version": "1.0.5",
+      "installedAt": 1776095128132
+    },
+    "facebook-page-manager": {
+      "version": "1.0.0",
+      "installedAt": 1776096895452
+    },
+    "facebook": {
+      "version": "1.0.1",
+      "installedAt": 1776096903750
+    },
+    "meta-business-suite": {
+      "version": "1.0.4",
+      "installedAt": 1776096918863
+    },
+    "upload-post": {
+      "version": "1.0.0",
+      "installedAt": 1776096926668
+    },
+    "shopee-big-data-analytics": {
+      "version": "1.0.0",
+      "installedAt": 1776097649579
+    },
+    "ecommerce-scraper": {
+      "version": "1.0.0",
+      "installedAt": 1776097667394
+    },
+    "ecommerce-product-research": {
+      "version": "1.0.1",
+      "installedAt": 1776097681687
+    },
+    "ai-data-scraper": {
+      "version": "1.0.0",
+      "installedAt": 1776097696304
+    },
+    "unsplash": {
+      "version": "1.0.0",
+      "installedAt": 1776097703841
+    },
+    "keyswap": {
+      "version": "1.0.0",
+      "installedAt": 1776098283629
+    },
+    "api-rate-limiting": {
+      "version": "1.0.0",
+      "installedAt": 1776098291737
+    },
+    "agentkeys": {
+      "version": "1.2.0",
+      "installedAt": 1776098304247
+    },
+    "send-email": {
+      "version": "1.0.1",
+      "installedAt": 1776101701544
+    },
+    "gmail-sender": {
+      "version": "1.0.0",
+      "installedAt": 1776101710995
+    }
+  }
+}
