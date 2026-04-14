@@ -1,0 +1,30 @@
+# Sensitive files
+api-keys.json
+api-state.json
+*.log
+
+# Backup files
+*.tar.gz
+*.backup
+*.tmp
+
+# Media files
+media/
+*.mp4
+*.mov
+*.avi
+
+# Node modules
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# OpenClaw specific
+openclaw-backup-*.tar.gz
+hustleclaw-*.tar.gz
