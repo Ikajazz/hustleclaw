@@ -116,6 +116,10 @@
     "gmail-sender": {
       "version": "1.0.0",
       "installedAt": 1776101710995
+    },
+    "playwright-browser-automation": {
+      "version": "2.0.0",
+      "installedAt": 1776144447527
     }
   }
 }
